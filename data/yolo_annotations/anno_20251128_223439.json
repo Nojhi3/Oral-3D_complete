@@ -1,0 +1,79 @@
+{
+  "image_path": "data/original_images/img_20251128_223156.png",
+  "image_width": 512,
+  "image_height": 512,
+  "boxes": [
+    {
+      "class": "Implant",
+      "class_id": 2,
+      "xmin": 207,
+      "ymin": 278,
+      "xmax": 224,
+      "ymax": 310,
+      "center_x": 0.4208984375,
+      "center_y": 0.57421875,
+      "width": 0.033203125,
+      "height": 0.0625
+    },
+    {
+      "class": "Fillings",
+      "class_id": 0,
+      "xmin": 289,
+      "ymin": 282,
+      "xmax": 304,
+      "ymax": 325,
+      "center_x": 0.5791015625,
+      "center_y": 0.5927734375,
+      "width": 0.029296875,
+      "height": 0.083984375
+    },
+    {
+      "class": "Cavity",
+      "class_id": 0,
+      "xmin": 166,
+      "ymin": 269,
+      "xmax": 197,
+      "ymax": 312,
+      "center_x": 0.3544921875,
+      "center_y": 0.5673828125,
+      "width": 0.060546875,
+      "height": 0.083984375
+    },
+    {
+      "class": "Fillings",
+      "class_id": 0,
+      "xmin": 275,
+      "ymin": 284,
+      "xmax": 290,
+      "ymax": 327,
+      "center_x": 0.5517578125,
+      "center_y": 0.5966796875,
+      "width": 0.029296875,
+      "height": 0.083984375
+    },
+    {
+      "class": "Cavity",
+      "class_id": 0,
+      "xmin": 337,
+      "ymin": 267,
+      "xmax": 375,
+      "ymax": 308,
+      "center_x": 0.6953125,
+      "center_y": 0.5615234375,
+      "width": 0.07421875,
+      "height": 0.080078125
+    },
+    {
+      "class": "Implant",
+      "class_id": 2,
+      "xmin": 234,
+      "ymin": 291,
+      "xmax": 251,
+      "ymax": 322,
+      "center_x": 0.4736328125,
+      "center_y": 0.5986328125,
+      "width": 0.033203125,
+      "height": 0.060546875
+    }
+  ]
+}

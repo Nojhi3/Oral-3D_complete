@@ -1,0 +1,55 @@
+{
+  "image_path": "data/original_images/img_20251102_181216.png",
+  "image_width": 512,
+  "image_height": 512,
+  "boxes": [
+    {
+      "class": "Premolar",
+      "class_id": 2,
+      "xmin": 294,
+      "ymin": 274,
+      "xmax": 321,
+      "ymax": 333,
+      "center_x": 0.6005859375,
+      "center_y": 0.5927734375,
+      "width": 0.052734375,
+      "height": 0.115234375
+    },
+    {
+      "class": "Implant",
+      "class_id": 0,
+      "xmin": 271,
+      "ymin": 293,
+      "xmax": 287,
+      "ymax": 340,
+      "center_x": 0.544921875,
+      "center_y": 0.6181640625,
+      "width": 0.03125,
+      "height": 0.091796875
+    },
+    {
+      "class": "Cavity",
+      "class_id": 0,
+      "xmin": 329,
+      "ymin": 280,
+      "xmax": 358,
+      "ymax": 328,
+      "center_x": 0.6708984375,
+      "center_y": 0.59375,
+      "width": 0.056640625,
+      "height": 0.09375
+    },
+    {
+      "class": "Cavity",
+      "class_id": 0,
+      "xmin": 153,
+      "ymin": 238,
+      "xmax": 179,
+      "ymax": 281,
+      "center_x": 0.32421875,
+      "center_y": 0.5068359375,
+      "width": 0.05078125,
+      "height": 0.083984375
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# Dental X-ray Detection Dataset
+path: D:\progs\Arc\datasets\dental_yolo
+train: train/images
+val: val/images
+
+# Classes
+nc: 6
+names: ['Incisor', 'Canine', 'Premolar', 'Molar', 'Wisdom', 'Damaged']
